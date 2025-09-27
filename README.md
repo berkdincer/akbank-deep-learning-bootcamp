@@ -27,8 +27,8 @@ BatchNormalization, bir katmandan çıkan ve bir sonraki katmana giren verileri 
 - **Değerlendirme:** Modelin başarımı; Accuracy/Loss grafikleri, Karmaşıklık Matrisi (Confusion Matrix), Sınıflandırma Raporu (Classification Report) ve Grad-CAM ısı haritaları ile detaylı bir şekilde analiz edilmiştir.
 
 ## Elde Edilen Sonuçlar
-Yapılan hiperparametre optimizasyonu sonucunda en iyi performansı veren model, **[]** test doğruluğuna ulaşmıştır. 
+Yapılan hiperparametre optimizasyonu sonucunda en iyi performansı veren `batch_size = 128`, `learning_rate = 0.01` parametrelerine ulaşılmıştır. 
 
 ## Kaggle Notebook Linki
 Projenin tüm kod ve analizlerini içeren Kaggle Notebook'una aşağıdaki linkten ulaşabilirsiniz:
-[https://www.kaggle.com/code/baranberkdincer/notebook20b92e5c29]
+(https://www.kaggle.com/code/baranberkdincer/notebook423df0143b)
